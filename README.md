@@ -1,4 +1,4 @@
--my-notes
+# my-notes
 -*my first project*
 -my name is mo'amen alrejjal and I am software engineer graduate from albalqaa applied university.
 
@@ -8,3 +8,5 @@
 3. Simplicity is the ultimate sophistication.
 4. Controlling complexity is the essence of computer programming.
 5. All changes require maintenance.
+
+i am a locally add line
